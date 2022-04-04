@@ -1,3 +1,4 @@
+package classProject;
 import java.util.*;
 
 public class Lesson {

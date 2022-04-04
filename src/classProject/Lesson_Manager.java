@@ -1,3 +1,4 @@
+package classProject;
 import java.util.Scanner;
 
 public class Lesson_Manager {
